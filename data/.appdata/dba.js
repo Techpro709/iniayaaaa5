@@ -1,0 +1,1 @@
+dba=String.raw`{"6739109254350242817":{"uniqueIds":["iniayaaaa5"],"nicknames":["Nanaducu🐮"],"followerCount":2500000,"heartCount":25000000,"videoCount":285,"signature":"Ig:nadyavittt","privateAccount":false}}`;
